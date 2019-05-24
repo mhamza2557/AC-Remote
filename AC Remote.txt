@@ -1,0 +1,6 @@
+AC Remote Functionality
+ • Mode
+ • Temperature
+ • Timer
+ • Swing
+ • Remote Child Mode
